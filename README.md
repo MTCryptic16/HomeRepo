@@ -1,4 +1,3 @@
-# HomeRepo
 ### Hi there 👋
 
 This is MTCryptic16, Blockchain Smart Contract related stuff ahead.
